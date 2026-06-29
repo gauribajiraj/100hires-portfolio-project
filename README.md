@@ -2,10 +2,16 @@
 
 ## Tools Installed
 
-**Cursor IDE**
-**Claude Code Extension**
-**Codex Extension**
-**Git**
+## Tools Installed
+
+- **Cursor IDE**
+
+- **Claude Code Extension**
+
+- **Codex Extension**
+
+- **Git**
+
 
 ## Steps Completed
 1. Created a GitHub account at github.com
